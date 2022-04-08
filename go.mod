@@ -1,4 +1,4 @@
-module fuqiangZ/systray
+module github.com/fuqiangZ/systray
 
 go 1.13
 
