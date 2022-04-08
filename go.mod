@@ -1,4 +1,4 @@
-module fyne.io/systray
+module fuqiangZ/systray
 
 go 1.13
 
